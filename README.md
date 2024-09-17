@@ -1,0 +1,2 @@
+## Overview
+In this COVID-19 analysis project, the user created tables to track global COVID-19 cases, deaths, and vaccinations. Using SQL queries, they analyzed death rates, highest death counts, and global trends by country and continent. A separate vaccine table was used to examine vaccination progress, testing rates, and health factors, enabling insights into pandemic response efforts worldwide.
